@@ -51,17 +51,10 @@
 <div align='center'>
   <p>&nbsp;
   <img 
-    src="https://wilsonibekason-git.vercel.app/api
-         ?username=wilsonibekason
-         &show_icons=true
-         &locale=en
-         &count_private=true
-         &theme=radical
-    " 
+    src="https://wilsonibekason-git.vercel.app/api?username=wilsonibekason&show_icons=true&locale=en&count_private=true&theme=radical" 
     alt="wilsonibekason's GitHub stats" />
 </p>
 </div>
-
 
 ---
 
