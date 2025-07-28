@@ -49,7 +49,17 @@
     <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <div align='center'>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsonibekason&show_icons=true&locale=en" alt="wilsonibekason" /></p>
+  <p>&nbsp;
+  <img 
+    src="https://wilsonibekason-git.vercel.app/api
+         ?username=wilsonibekason
+         &show_icons=true
+         &locale=en
+         &count_private=true
+         &theme=radical
+    " 
+    alt="wilsonibekason's GitHub stats" />
+</p>
 </div>
 
 
